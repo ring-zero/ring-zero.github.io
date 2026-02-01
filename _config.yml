@@ -26,7 +26,7 @@ url: "https://ring-zero.github.io" # the base hostname & protocol for your site,
 github_username:  ring-zero
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 

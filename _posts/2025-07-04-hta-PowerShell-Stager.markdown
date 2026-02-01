@@ -4,6 +4,7 @@ title:  ".hta PowerShell Stager"
 date:   2025-07-04 19:35:00 -0400
 categories: malware analysis
 ---
+
 > SHA256: 2fe621fe3a33dbf93d5fb71605ad76048ef621d14585eb4ff9f495ce8a6992fa
 
 I don’t look at PowerShell malware often, so I wanted to kill two birds with one stone by doing that and also diving into my first .hta sample.
